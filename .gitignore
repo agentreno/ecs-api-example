@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate*
+*.swp
+*.tfvars
+env/
+*.zip
+*.pyc
+*.sqlite3
+node_modules/
